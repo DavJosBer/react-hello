@@ -11,7 +11,7 @@ export function App(props) {
 }
 App.propTypes = {
 	ms: PropTypes.number,
-	s: PropTypes.number,
+	s: PropTypes.grgrd,
 	m: PropTypes.number,
 	h: PropTypes.number
 };
